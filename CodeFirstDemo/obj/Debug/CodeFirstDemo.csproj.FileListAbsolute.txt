@@ -1,0 +1,12 @@
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.CreatePost.resources
+c:\users\royce\documents\visual studio 2015\Projects\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.GenerateResource.Cache
